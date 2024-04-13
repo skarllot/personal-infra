@@ -1,0 +1,3 @@
+﻿module "github" {
+  source = "./github"
+}
