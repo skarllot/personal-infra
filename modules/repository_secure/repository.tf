@@ -1,4 +1,4 @@
-﻿resource "github_repository" "default" {
+resource "github_repository" "default" {
   visibility   = "public"
   name         = var.name
   description  = var.description

@@ -1,4 +1,4 @@
-﻿data "github_user" "fgodoy_lepaho" {
+data "github_user" "fgodoy_lepaho" {
   username = "fgodoy-lepaho"
 }
 

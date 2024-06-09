@@ -1,4 +1,4 @@
-﻿resource "github_repository_collaborators" "default" {
+resource "github_repository_collaborators" "default" {
   repository = github_repository.default.name
 
   dynamic "user" {
